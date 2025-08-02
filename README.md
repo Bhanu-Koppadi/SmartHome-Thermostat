@@ -32,7 +32,7 @@ This project tackles the inefficiency of traditional thermostats by building an 
 
 ## 🧩 Circuit Diagram
 
-> Refer to the PPT or images folder for full wiring details.
+> Refer to the PPT or Smart Home Theromostat folder for full wiring details.
 
 ## ⚙️ Working Principle
 
