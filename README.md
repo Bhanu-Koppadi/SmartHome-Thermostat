@@ -59,6 +59,7 @@ Real-time mobile app control.
 Advanced ML-based pattern learning for predictive automation.
 ## 📁 Repository Structure
 📦 SmartHome-Thermostat/
+
 ├── 📄 README.md
 
 ├── 🧠 MAIN_PROJECT1.ino   # Arduino source code
