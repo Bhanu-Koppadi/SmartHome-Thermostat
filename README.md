@@ -60,8 +60,11 @@ Advanced ML-based pattern learning for predictive automation.
 ## 📁 Repository Structure
 📦 SmartHome-Thermostat/
 ├── 📄 README.md
-├── 🧠 MAIN_PROJECT1.ino         # Arduino source code
+
+├── 🧠 MAIN_PROJECT1.ino   # Arduino source code
+
 ├── 🖼️ Smart-Homes-Adaptive-Thermostat-System.pptx  # Project presentation
+
 └── 📝 Smart Home Thermostat.pdf # Project report
 ## 📬 Contact  
 
